@@ -16,9 +16,5 @@ import java.util.List;
 @SpringBootTest
 public class RedisTest {
 
-    @Autowired
-    RedisCache redisCache;
-
-
 
 }
