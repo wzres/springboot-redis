@@ -13,7 +13,7 @@ import java.io.Serializable;
  */
 
 @Data
-@Accessors(chain = true) //支持setget的函数式编程
+@Accessors(chain = true) //支持set&get的函数式编程
 @AllArgsConstructor
 @NoArgsConstructor
 public class User implements Serializable {
